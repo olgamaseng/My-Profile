@@ -98,7 +98,7 @@ a:hover {
 }
 
 .parallax-window {
-  min-height: 1100px;
+  min-height: 1600px;
   background: transparent;
 }
 
@@ -134,8 +134,8 @@ a:hover {
 .tm-welcome-right {
   color: white;
   background-color: #986665;
-  padding: 80px 43px 70px;
-  height: 100%;
+  padding: 60px 23px 50px;
+  height: 90%;
 }
 
 .tm-welcome-icon {

@@ -4290,3 +4290,17 @@
 .fas {
   font-weight: 900;
 }
+
+a{padding: 5px 5px;
+  text-decoration: none;
+  border: rgb(28, 28, 26) 1px solid;
+  border-radius: 10px;
+  letter-spacing: 1px;
+  color: #fff;
+  position: absolute;
+  margin: 1% 15%;
+  }
+  
+  a:hover{
+  background-color: rgba(46, 22, 44, 0.589);
+  }
