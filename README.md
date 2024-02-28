@@ -27,7 +27,7 @@ The "Portfolio" section details my educational and professional journey, includi
 - NQF Level 3: End User Computing at Xtensive Ict Academy (2007 to 2008)
 - NQF Level 4: Technical Support at Xtensive Ict Academy (2011 Nov to 2012 Nov)
 - NQF Level 5: System Support at Bytes Technology (2012 Dec to 2013 Oct)
-- Software Development at Codespace Academy (2022 to date)
+- Software Development at Codespace Academy (2022 to 2023)
 
 ## Contact
 
